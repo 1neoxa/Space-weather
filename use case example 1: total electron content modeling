@@ -1,0 +1,13 @@
+we will decide to use the scientfic method for this
+research question:
+Can a network of low-cost, dual-frequency(likely better if triple frequency?)positioning stations be used to reliably measure Total Electron Content (TEC) in the ionosphere and detect meaningful patterns in space weather activity
+
+significance:
+The ionosphere, a dynamic region of Earth’s upper atmosphere, plays a critical role in how radio signals travel. Its electron density, measured as Total Electron Content (TEC), varies based on solar radiation, geomagnetic storms, and diurnal cycles.
+Fluctuations in TEC can disrupt satellite-based navigation, communication systems, and aviation. While global models and government observatories track space weather at scale, this project explores whether community-operated, ground-based receivers can contribute localized, real-time ionospheric insights — especially in under-observed regions.
+
+3. hypothesis:
+By capturing dual-frequency L-band signals and analyzing their relative delay, it is possible to derive accurate TEC values and observe ionospheric variability. I anticipate clear correlations between TEC variation and solar activity, geomagnetic indices, and daily atmospheric cycles.
+this one is perhaps unbothered by whether we use dual frequency or triple band
+
+4. methodology
