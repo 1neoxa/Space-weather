@@ -1,5 +1,6 @@
 # Space-weather
-we must first decide that the scope of this project is to act as a bridge
-there are people who will use the raw data for space weather research, trend analysis, predcition etc
-there are people who will use it to determine radio wave latency or loss
-that in itself can branch off in many different eays. one example is just automated farming where accurate position is required. this need isnt satisfied by currenrt technology like gps satelites. with the addition of telemetry data we can provide it can be fixed
+Before proceeding, it is essential to establish that the primary scope of this project is to serve as an infrastructural bridge. We aim to connect diverse user groups to a unified, enhanced dataset. On one side, there are researchers focused on raw space weather data—leveraging it for applications such as long-term trend analysis, predictive modeling, and real-time anomaly detection. On another side, there are users concerned with the integrity and performance of radio wave propagation, including measuring latency, signal degradation, and loss across various atmospheric conditions.
+
+These branches can further subdivide into specialized domains. For instance, one practical application is precision agriculture, where the reliability of real-time positional data is critical for the operation of autonomous farming machinery. Existing technologies, such as conventional GPS satellite systems, do not consistently meet the high-precision demands required for such use cases, particularly when atmospheric disturbances are involved.
+
+By incorporating high-fidelity telemetry data alongside space weather observations, we can significantly enhance positional accuracy and signal reliability, addressing limitations in current systems and enabling new levels of performance across multiple industries.
